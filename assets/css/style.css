@@ -1,0 +1,37 @@
+/* importa font do site todo */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* imposta font do desenvolvedor */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+:root {
+    /* cores belas andorinhas */
+    --cor-lilas: #a16caa;
+    --cor-roxo-medio: #6c437c;
+    --cor-roxo-escuro: #58346b;
+
+    /* cores genericas */
+    --cor-branco: #fff;
+
+    /* cores walps tech */
+    --cor-azul-claro: #336cbe;
+    --cor-azul-marinho: #10122a;
+    --cor-azul-acizentado: #4b5478;
+
+    /* whatsapp */
+    --cor-verde-whatsapp: #25D366;
+
+    /* instagram */
+    --cor-amarelo-instagram: #FFDC80;
+    --cor-rosa-instagram: #E1306C;
+    --cor-roxo-instagram: #833AB4;
+
+    /* cor sombra */
+    --cor-sombra: #0000004d;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
